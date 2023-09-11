@@ -40,4 +40,4 @@
 
 # Example 
 
-![Alt text](image-1.png)
+![image](https://github.com/RainfieldMak/OCR-receipt/assets/130533588/771e7467-566c-4c79-8bbf-e2b1dc2bc64a)
