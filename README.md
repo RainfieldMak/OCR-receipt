@@ -40,4 +40,5 @@
 
 # Example 
 
-![image](https://github.com/RainfieldMak/OCR-receipt/assets/130533588/771e7467-566c-4c79-8bbf-e2b1dc2bc64a)
+![image](https://github.com/RainfieldMak/OCR-receipt/assets/130533588/20fe893a-73e6-46ef-b9ad-b64b1e8f525d)
+
